@@ -35,4 +35,5 @@ namespace DimondDating.Models
         public System.Data.Entity.DbSet<ContactManager.Models.Contact> Contacts { get; set; }
     }
 
+
 }
